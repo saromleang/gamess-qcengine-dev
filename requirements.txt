@@ -1,0 +1,10 @@
+networkx
+numpy
+pint
+psutil
+py-cpuinfo
+pydantic
+pytest
+pytest-cov
+pyyaml
+jinja2
