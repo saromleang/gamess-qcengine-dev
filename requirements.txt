@@ -3,7 +3,7 @@ numpy
 pint
 psutil
 py-cpuinfo
-pydantic
+pydantic==1.*
 pytest
 pytest-cov
 pyyaml
